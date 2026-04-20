@@ -1,6 +1,6 @@
 # 3dsvg
 
-![3dsvg](.github/assets/demo.png)
+![3dsvg](.github/assets/demos.png)
 
 The easiest way to turn SVGs into interactive 3D.
 
